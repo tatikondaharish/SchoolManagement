@@ -22,8 +22,8 @@
                                 
         
         
-        <property name="java-output-path" value="/Hibernate/target/classes"/>
-        <property name="context-root" value="SchoolManagement"/>
+        <property name="java-output-path" value="/SchoolManagement/target/classes"/>
+        <property name="context-root" value="Hibernate"/>
                             
     
     
